@@ -1144,12 +1144,12 @@ msgstr ""
 # header
 #: overview.md:1
 msgid "# Overview"
-msgstr ""
+msgstr "# Aperçu général"
 
 #: roadmap.md:1
 msgid "#Roadmap"
-msgstr ""
+msgstr "#Feuille de route"
 
 #: roadmap.md:3
 msgid "Please check https://seacloud.cc/group/3/wiki/seafile-roadmap/"
-msgstr ""
+msgstr "Veuillez vous reporter à https://seacloud.cc/group/3/wiki/seafile-roadmap/"
