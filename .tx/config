@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[documentation-seafile-test.overviewpot]
+file_filter = po/overview.<lang>.po
+source_lang = en
+type = PO
+
