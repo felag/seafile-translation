@@ -1,8 +1,75 @@
 [main]
 host = https://www.transifex.com
 
-[documentation-seafile-test.overviewpot]
+[documentation-seafile-test.doc-root]
+file_filter = po/doc-root.<lang>.po
+source_file = po/doc-root.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.build_seafile]
+file_filter = po/build_seafile.<lang>.po
+source_file = po/build_seafile.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.client]
+file_filter = po/client.<lang>.po
+source_file = po/client.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.config]
+file_filter = po/config.<lang>.po
+source_file = po/config.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.deploy]
+file_filter = po/deploy.<lang>.po
+source_file = po/deploy.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.deploy_pro]
+file_filter = po/deploy_pro.<lang>.po
+source_file = po/deploy_pro.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.deploy_windows]
+file_filter = po/deploy_windows.<lang>.po
+source_file = po/deploy_windows.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.develop]
+file_filter = po/develop.<lang>.po
+source_file = po/develop.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.extension]
+file_filter = po/extension.<lang>.po
+source_file = po/extension.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.maintain]
+file_filter = po/maintain.<lang>.po
+source_file = po/maintain.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.overview]
 file_filter = po/overview.<lang>.po
+source_file = po/overview.pot
+source_lang = en
+type = PO
+
+[documentation-seafile-test.security]
+file_filter = po/security.<lang>.po
+source_file = po/security.pot
 source_lang = en
 type = PO
 
